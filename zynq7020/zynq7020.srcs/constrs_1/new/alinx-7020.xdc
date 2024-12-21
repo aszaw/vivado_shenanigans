@@ -1,0 +1,6 @@
+set_property PACKAGE_PIN U18 [get_ports Clk]
+set_property PACKAGE_PIN N15 [get_ports PL_KEY1]
+set_property PACKAGE_PIN M14 [get_ports PL_LED1]
+set_property IOSTANDARD LVCMOS33 [get_ports Clk]
+set_property IOSTANDARD LVCMOS33 [get_ports PL_KEY1]
+set_property IOSTANDARD LVCMOS33 [get_ports PL_LED1]
